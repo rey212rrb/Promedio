@@ -1,5 +1,12 @@
 package logica;
 
+
+
+
+/*
+* cambios realizados en la rama desarrollo_Diego:Prueba
+* */
+
 public class Logica {
     public static double media(int[] arreglo){
 
